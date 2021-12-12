@@ -8,8 +8,7 @@ Components
 3.Breadboard(maybe optional)
 4.Relay module
 5.jumper wires
-6.Lamp (or any other electrical appliance or device 
-(MAKE SURE TO READ MAXIMUM LOAD FOR THE RELAY!!!))
+6.Lamp (or any other electrical appliance or device)
 
 Note***
 Disconnect 0->RX and 1<-TX wires from arduino before uploading the code
